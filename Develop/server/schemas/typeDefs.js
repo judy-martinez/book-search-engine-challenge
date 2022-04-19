@@ -26,6 +26,16 @@ type Book {
       token: ID!
       user: User
   }
+
+  
+  input SavedBook {
+    authors: [String]
+    description: String
+    title: String
+    bookId: String
+    image: String
+    link: String
+  }
 `;
 
 // Template Literal
