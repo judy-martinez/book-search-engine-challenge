@@ -6,6 +6,14 @@ The purpose of this challenge is to create an application that can search for bo
 ## Repository
 https://github.com/judy-martinez
 
+## Installation Instructions
+* Clone repository into your local directory
+* $ cd Develop
+* npm i
+* cd Client
+* npm i
+* npm start
+
 ## Preview
 
 ## Credits
