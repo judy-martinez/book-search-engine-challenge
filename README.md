@@ -16,6 +16,7 @@ The purpose of this challenge is to create an application that can search for bo
 * npm start
 
 ## Preview
+![book search engine screenshot](https://user-images.githubusercontent.com/93234615/164107245-4e6a2249-88b3-4f7e-b97c-8a815a9f5880.png)
 
 ## Credits
 * UT Austin Coding Bootcamp - Module 21
